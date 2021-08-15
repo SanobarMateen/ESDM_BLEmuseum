@@ -1,10 +1,9 @@
 ## Overview
 
-This is a Kotlin reference app for the AndroidBeaconLibrary
+This is the receiver application for Andriod devices to scan for iBeacons.
 
 ## Project Setup
 
 1. Install [Android Studio](https://developer.android.com/sdk/installing/studio.html) 4.1+
 2. Open this project
 
-See the [Java refernce app here.](https://github.com/AltBeacon/android-beacon-library-reference)
