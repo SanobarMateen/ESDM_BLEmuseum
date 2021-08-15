@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Museum Beacon</string>
+    <string name="hello_blank_fragment">Oh...Nothing Yet found Around You\nTry Moving Closer to an artefact</string>
+</resources>
